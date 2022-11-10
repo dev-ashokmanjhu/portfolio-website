@@ -75,6 +75,8 @@ $ npm install
 # Start the development server
 $ npm start
 ```
+#install parcel sass transformer
+$npm install @parcelsasstransformer
 
 Using Yarn: Be aware of that you'll need to delete the `package-lock.json` file before executing the below commands.
 
