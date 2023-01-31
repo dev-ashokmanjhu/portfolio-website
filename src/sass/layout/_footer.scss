@@ -1,5 +1,5 @@
 .footer {
-  background-color: $dark-grey;
+  background-color: $white-color;
   color: $white-color;
   padding: 4.8rem 0;
 
@@ -16,7 +16,7 @@
       font-size: 1.3rem;
       transition: all 0.4s;
       display: inline-block;
-      background-color: $dark-grey;
+      // background-color: $dark-grey;
 
       &:hover,
       &:active {
